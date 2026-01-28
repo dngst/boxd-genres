@@ -8,7 +8,7 @@ api_key = os.getenv('TMDB_API_KEY')
 BASE_URL = 'https://api.themoviedb.org/3'
 
 data = []
-with open("watched.csv", "r") as infile:
+with open("data/watched.csv", "r") as infile:
     reader = csv.reader(infile)
     next(reader)
     for row in reader:
