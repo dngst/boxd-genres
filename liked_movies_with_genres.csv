@@ -1,126 +1,126 @@
-name,year,genre
-The Secret Life of Walter Mitty,2013,"Adventure, Comedy, Drama, Fantasy"
-TRON: Legacy,2010,"Adventure, Action, Science Fiction"
-Limitless,2011,"Thriller, Mystery, Science Fiction"
-The Fifth Element,1997,"Science Fiction, Action, Adventure"
-Groundhog Day,1993,"Romance, Fantasy, Comedy"
-Training Day,2001,"Action, Crime, Drama"
-They Live,1988,"Science Fiction, Action, Thriller"
-The Five People You Meet In Heaven,2004,"Drama, Fantasy, Science Fiction, TV Movie"
-Demolition Man,1993,"Crime, Action, Science Fiction"
-Lucy,2014,"Action, Science Fiction"
-I Origins,2014,"Science Fiction, Drama"
-In Time,2011,"Action, Thriller, Science Fiction"
-Iron Man,2008,"Action, Science Fiction, Adventure"
-Mad Max,1979,"Adventure, Action, Thriller, Science Fiction"
-Hummingbird,2013,"Action, Thriller"
-Mr. Nobody,2009,"Science Fiction, Drama, Romance"
-The Great Gatsby,2013,"Drama, Romance"
-Revolver,2005,"Drama, Thriller, Crime, Mystery"
-Ponyo,2008,"Animation, Fantasy, Family"
-Unbreakable,2000,"Thriller, Drama, Mystery"
-GoodFellas,1990,"Drama, Crime"
-Boyz n the Hood,1991,"Crime, Drama"
-Beetlejuice,1988,"Fantasy, Comedy"
-The Holy Mountain,1973,Drama
-They Cloned Tyrone,2023,"Comedy, Science Fiction, Mystery"
-Wanted,2008,"Action, Thriller, Crime"
-Rango,2011,"Animation, Comedy, Family, Western, Adventure"
-Soul,2020,"Animation, Family, Comedy, Fantasy, Drama, Music"
-Cars,2006,"Animation, Adventure, Comedy, Family"
-The Wolf of Wall Street,2013,"Crime, Drama, Comedy"
-Life of Pi,2012,"Adventure, Drama"
-Everything Everywhere All at Once,2022,"Action, Adventure, Science Fiction"
-Transformers: Dark of the Moon,2011,"Action, Science Fiction, Adventure"
-The Matrix,1999,"Action, Science Fiction"
-The Silence of the Lambs,1991,"Crime, Thriller, Drama"
-The Dark Knight Rises,2012,"Action, Crime, Drama, Thriller"
-Enter the Void,2009,"Fantasy, Drama"
-50/50,2011,"Comedy, Drama"
-About Time,2013,"Drama, Romance, Fantasy"
-Birdman or (The Unexpected Virtue of Ignorance),2014,"Drama, Comedy"
-Free Guy,2021,"Comedy, Adventure, Science Fiction"
-Ready Player One,2018,"Adventure, Action, Science Fiction"
-The Usual Suspects,1995,"Drama, Crime, Thriller"
-Peaceful Warrior,2006,Drama
-What Dreams May Come,1998,"Drama, Fantasy, Romance"
-Uncle Buck,1989,"Comedy, Drama, Family"
-The Wizard of Oz,1939,"Adventure, Fantasy, Family"
-American Psycho,2000,"Thriller, Drama, Crime"
-Slacker,1990,"Drama, Comedy"
-Waking Life,2001,"Animation, Drama, Fantasy"
-Joker,2019,"Crime, Thriller, Drama"
-Into the Wild,2007,"Adventure, Drama"
-Akira,1988,"Animation, Science Fiction, Action"
-Ghost in the Shell,1995,"Action, Animation, Science Fiction"
-Source Code,2011,"Thriller, Science Fiction, Mystery"
-Little Buddha,1993,"Drama, History"
-Doctor Strange,2016,"Fantasy, Adventure, Action"
-Deep Cover,1992,"Action, Thriller, Crime"
-Close Encounters of the Third Kind,1977,"Science Fiction, Drama"
-Videodrome,1983,"Horror, Science Fiction, Mystery"
-The Adventures of Tintin,2011,"Adventure, Animation, Mystery"
-In Full Bloom,2019,"Action, Drama"
-The Sting,1973,"Comedy, Crime, Drama"
-Avatar,2009,"Action, Adventure, Fantasy, Science Fiction"
-The Boys from Brazil,1978,"Drama, Mystery, Science Fiction"
-Fallen Angels,1995,"Action, Romance, Crime"
-The Illusionist,2006,"Fantasy, Drama, Thriller, Romance"
-Casino,1995,"Crime, Drama"
-Bonnie and Clyde,1967,"Crime, Drama"
-Donnie Brasco,1997,"Crime, Drama, Thriller"
-My Life as a Zucchini,2016,"Animation, Comedy, Drama"
-1917,2019,"War, History, Drama, Action"
-Zootopia,2016,"Animation, Adventure, Family, Comedy"
-Gotti,1996,"Crime, Drama, TV Movie"
-Jackie Brown,1997,"Crime, Drama, Thriller"
-The Man from Earth,2007,"Science Fiction, Drama"
-The Holdovers,2023,"Comedy, Drama"
-Wild Tales,2014,"Drama, Thriller, Comedy"
-Mars Express,2023,"Animation, Science Fiction, Action, Mystery"
-Transformers One,2024,"Animation, Science Fiction, Adventure, Family"
-Perfect Days,2023,Drama
-Good Will Hunting,1997,Drama
-Dead Poets Society,1989,Drama
-Matilda,1996,"Comedy, Family, Fantasy"
-The Big Lebowski,1998,"Comedy, Crime"
-Up,2009,"Animation, Comedy, Family, Adventure"
-Parasite,2019,"Comedy, Thriller, Drama"
-The Truman Show,1998,"Comedy, Drama"
-A Beautiful Mind,2001,"Drama, Romance"
-Catch Me If You Can,2002,"Drama, Crime"
-Ratatouille,2007,"Animation, Comedy, Family, Fantasy"
-Stand by Me,1986,"Crime, Drama"
-Fight Club,1999,"Drama, Thriller"
-American Beauty,1999,Drama
-GoldenEye,1995,"Adventure, Action, Thriller"
-The Perks of Being a Wallflower,2012,Drama
-Amélie,2001,"Comedy, Romance"
-Mad Max: Fury Road,2015,"Action, Adventure, Science Fiction"
-The Shawshank Redemption,1994,"Drama, Crime"
-V for Vendetta,2005,"Action, Thriller, Science Fiction"
-The Worst Person in the World,2021,"Drama, Romance, Comedy"
-Half Baked,1998,"Comedy, Crime"
-Past Lives,2023,"Drama, Romance"
-Alice in Wonderland,1951,"Animation, Family, Fantasy, Adventure"
-Bambi,1942,"Animation, Drama, Family"
-Love Jones,1997,"Comedy, Drama, Romance"
-In the Mood for Love,2000,"Drama, Romance"
-Taxi Driver,1976,"Crime, Drama"
-Jacob's Ladder,1990,"Drama, Mystery, Horror"
-Requiem for a Dream,2000,"Crime, Drama"
-The Banker,2020,Drama
-Paid in Full,2002,"Action, Crime, Drama"
-New Jack City,1991,"Thriller, Crime, Drama"
-Coach Carter,2005,"Drama, History"
-Fresh,1994,"Crime, Drama, Thriller"
-Menace II Society,1993,"Drama, Crime, Thriller"
-Ghost,1990,"Fantasy, Drama, Thriller, Mystery, Romance"
-Jason's Lyric,1994,"Crime, Drama, Romance"
-Dead Presidents,1995,"Action, Crime, Drama, Thriller, War"
-The Players Club,1998,"Comedy, Drama"
-Antwone Fisher,2002,"Drama, History, Romance"
-The Big Country,1958,"Drama, Western, Romance"
-Cinderella,1950,"Family, Fantasy, Animation, Romance"
-Pinocchio,1940,"Animation, Family, Fantasy"
-The Five-Year Engagement,2012,"Comedy, Romance"
+name,year,genre,runtime
+The Secret Life of Walter Mitty,2013,"Adventure, Comedy, Drama, Fantasy",114
+TRON: Legacy,2010,"Adventure, Action, Science Fiction",126
+Limitless,2011,"Thriller, Mystery, Science Fiction",106
+The Fifth Element,1997,"Science Fiction, Action, Adventure",126
+Groundhog Day,1993,"Romance, Fantasy, Comedy",101
+Training Day,2001,"Action, Crime, Drama",122
+They Live,1988,"Science Fiction, Action, Thriller",93
+The Five People You Meet In Heaven,2004,"Drama, Fantasy, Science Fiction, TV Movie",132
+Demolition Man,1993,"Crime, Action, Science Fiction",115
+Lucy,2014,"Action, Science Fiction",89
+I Origins,2014,"Science Fiction, Drama",106
+In Time,2011,"Action, Thriller, Science Fiction",109
+Iron Man,2008,"Action, Science Fiction, Adventure",126
+Mad Max,1979,"Adventure, Action, Thriller, Science Fiction",91
+Hummingbird,2013,"Action, Thriller",100
+Mr. Nobody,2009,"Science Fiction, Drama, Romance",141
+The Great Gatsby,2013,"Drama, Romance",143
+Revolver,2005,"Drama, Thriller, Crime, Mystery",115
+Ponyo,2008,"Animation, Fantasy, Family",100
+Unbreakable,2000,"Thriller, Drama, Mystery",106
+GoodFellas,1990,"Drama, Crime",145
+Boyz n the Hood,1991,"Crime, Drama",112
+Beetlejuice,1988,"Fantasy, Comedy",92
+The Holy Mountain,1973,Drama,113
+They Cloned Tyrone,2023,"Comedy, Science Fiction, Mystery",122
+Wanted,2008,"Action, Thriller, Crime",110
+Rango,2011,"Animation, Comedy, Family, Western, Adventure",112
+Soul,2020,"Animation, Family, Comedy, Fantasy, Drama, Music",101
+Cars,2006,"Animation, Adventure, Comedy, Family",117
+The Wolf of Wall Street,2013,"Crime, Drama, Comedy",180
+Life of Pi,2012,"Adventure, Drama",127
+Everything Everywhere All at Once,2022,"Action, Adventure, Science Fiction",140
+Transformers: Dark of the Moon,2011,"Action, Science Fiction, Adventure",154
+The Matrix,1999,"Action, Science Fiction",136
+The Silence of the Lambs,1991,"Crime, Thriller, Drama",119
+The Dark Knight Rises,2012,"Action, Crime, Drama, Thriller",165
+Enter the Void,2009,"Fantasy, Drama",161
+50/50,2011,"Comedy, Drama",100
+About Time,2013,"Drama, Romance, Fantasy",123
+Birdman or (The Unexpected Virtue of Ignorance),2014,"Drama, Comedy",120
+Free Guy,2021,"Comedy, Adventure, Science Fiction",115
+Ready Player One,2018,"Adventure, Action, Science Fiction",140
+The Usual Suspects,1995,"Drama, Crime, Thriller",106
+Peaceful Warrior,2006,Drama,120
+What Dreams May Come,1998,"Drama, Fantasy, Romance",113
+Uncle Buck,1989,"Comedy, Drama, Family",100
+The Wizard of Oz,1939,"Adventure, Fantasy, Family",102
+American Psycho,2000,"Thriller, Drama, Crime",102
+Slacker,1990,"Drama, Comedy",97
+Waking Life,2001,"Animation, Drama, Fantasy",101
+Joker,2019,"Crime, Thriller, Drama",122
+Into the Wild,2007,"Adventure, Drama",148
+Akira,1988,"Animation, Science Fiction, Action",124
+Ghost in the Shell,1995,"Action, Animation, Science Fiction",83
+Source Code,2011,"Thriller, Science Fiction, Mystery",93
+Little Buddha,1993,"Drama, History",123
+Doctor Strange,2016,"Fantasy, Adventure, Action",115
+Deep Cover,1992,"Action, Thriller, Crime",108
+Close Encounters of the Third Kind,1977,"Science Fiction, Drama",137
+Videodrome,1983,"Horror, Science Fiction, Mystery",88
+The Adventures of Tintin,2011,"Adventure, Animation, Mystery",107
+In Full Bloom,2019,"Action, Drama",88
+The Sting,1973,"Comedy, Crime, Drama",129
+Avatar,2009,"Action, Adventure, Fantasy, Science Fiction",162
+The Boys from Brazil,1978,"Drama, Mystery, Science Fiction",125
+Fallen Angels,1995,"Action, Romance, Crime",98
+The Illusionist,2006,"Fantasy, Drama, Thriller, Romance",110
+Casino,1995,"Crime, Drama",179
+Bonnie and Clyde,1967,"Crime, Drama",111
+Donnie Brasco,1997,"Crime, Drama, Thriller",127
+My Life as a Zucchini,2016,"Animation, Comedy, Drama",66
+1917,2019,"War, History, Drama, Action",119
+Zootopia,2016,"Animation, Adventure, Family, Comedy",109
+Gotti,1996,"Crime, Drama, TV Movie",117
+Jackie Brown,1997,"Crime, Drama, Thriller",154
+The Man from Earth,2007,"Science Fiction, Drama",87
+The Holdovers,2023,"Comedy, Drama",133
+Wild Tales,2014,"Drama, Thriller, Comedy",122
+Mars Express,2023,"Animation, Science Fiction, Action, Mystery",89
+Transformers One,2024,"Animation, Science Fiction, Adventure, Family",104
+Perfect Days,2023,Drama,124
+Good Will Hunting,1997,Drama,127
+Dead Poets Society,1989,Drama,129
+Matilda,1996,"Comedy, Family, Fantasy",98
+The Big Lebowski,1998,"Comedy, Crime",117
+Up,2009,"Animation, Comedy, Family, Adventure",96
+Parasite,2019,"Comedy, Thriller, Drama",133
+The Truman Show,1998,"Comedy, Drama",103
+A Beautiful Mind,2001,"Drama, Romance",135
+Catch Me If You Can,2002,"Drama, Crime",141
+Ratatouille,2007,"Animation, Comedy, Family, Fantasy",111
+Stand by Me,1986,"Crime, Drama",89
+Fight Club,1999,"Drama, Thriller",139
+American Beauty,1999,Drama,122
+GoldenEye,1995,"Adventure, Action, Thriller",130
+The Perks of Being a Wallflower,2012,Drama,103
+Amélie,2001,"Comedy, Romance",122
+Mad Max: Fury Road,2015,"Action, Adventure, Science Fiction",121
+The Shawshank Redemption,1994,"Drama, Crime",142
+V for Vendetta,2005,"Action, Thriller, Science Fiction",132
+The Worst Person in the World,2021,"Drama, Romance, Comedy",128
+Half Baked,1998,"Comedy, Crime",82
+Past Lives,2023,"Drama, Romance",106
+Alice in Wonderland,1951,"Animation, Family, Fantasy, Adventure",75
+Bambi,1942,"Animation, Drama, Family",69
+Love Jones,1997,"Comedy, Drama, Romance",109
+In the Mood for Love,2000,"Drama, Romance",99
+Taxi Driver,1976,"Crime, Drama",114
+Jacob's Ladder,1990,"Drama, Mystery, Horror",113
+Requiem for a Dream,2000,"Crime, Drama",102
+The Banker,2020,Drama,120
+Paid in Full,2002,"Action, Crime, Drama",98
+New Jack City,1991,"Thriller, Crime, Drama",97
+Coach Carter,2005,"Drama, History",136
+Fresh,1994,"Crime, Drama, Thriller",114
+Menace II Society,1993,"Drama, Crime, Thriller",97
+Ghost,1990,"Fantasy, Drama, Thriller, Mystery, Romance",127
+Jason's Lyric,1994,"Crime, Drama, Romance",119
+Dead Presidents,1995,"Action, Crime, Drama, Thriller, War",119
+The Players Club,1998,"Comedy, Drama",104
+Antwone Fisher,2002,"Drama, History, Romance",120
+The Big Country,1958,"Drama, Western, Romance",167
+Cinderella,1950,"Family, Fantasy, Animation, Romance",74
+Pinocchio,1940,"Animation, Family, Fantasy",88
+The Five-Year Engagement,2012,"Comedy, Romance",124
