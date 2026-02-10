@@ -1,44 +1,44 @@
-name,year,genre,runtime
-The Worst Person in the World,2021,"Drama, Romance, Comedy",128
-Entergalactic,2022,"Animation, Romance, Music",93
-A Bronx Tale,1993,"Drama, Crime",121
-2001: A Space Odyssey,1968,"Science Fiction, Mystery, Adventure",149
-The Piano Teacher,2001,"Drama, Romance",131
-Past Lives,2023,"Drama, Romance",106
-Snatch,2000,"Crime, Comedy",103
-Jacob's Ladder,1990,"Drama, Mystery, Horror",113
-Alice in Wonderland,1951,"Animation, Family, Fantasy, Adventure",75
-Taxi Driver,1976,"Crime, Drama",114
-Bambi,1942,"Animation, Drama, Family",69
-It's Such a Beautiful Day,2012,"Animation, Comedy",62
-Love Jones,1997,"Comedy, Drama, Romance",109
-In the Mood for Love,2000,"Drama, Romance",99
-Requiem for a Dream,2000,"Crime, Drama",102
-The Banker,2020,Drama,120
-Belly,1998,"Crime, Drama",96
-96,2018,Romance,159
-Paid in Full,2002,"Action, Crime, Drama",98
-New Jack City,1991,"Thriller, Crime, Drama",97
-Coach Carter,2005,"Drama, History",136
-Fresh,1994,"Crime, Drama, Thriller",114
-Lean On Me,1989,Drama,108
-Menace II Society,1993,"Drama, Crime, Thriller",97
-Ol' Dirty Bastard: A Tale of Two Dirtys,2024,Documentary,90
-The Hateful Eight,2015,"Drama, Mystery, Western",188
-Ghost,1990,"Fantasy, Drama, Thriller, Mystery, Romance",127
-Jason's Lyric,1994,"Crime, Drama, Romance",119
-Dead Presidents,1995,"Action, Crime, Drama, Thriller, War",119
-The Players Club,1998,"Comedy, Drama",104
-Devil in a Blue Dress,1995,"Thriller, Crime, Mystery",102
-American History X,1998,Drama,119
-American Gangster,2007,"Drama, Crime",157
-What Dreams May Come,1998,"Drama, Fantasy, Romance",113
-Network,1976,Drama,122
-Fences,2016,Drama,139
-Antwone Fisher,2002,"Drama, History, Romance",120
-The Big Country,1958,"Drama, Western, Romance",167
-Cinderella,1950,"Family, Fantasy, Animation, Romance",74
-Pinocchio,1940,"Animation, Family, Fantasy",88
-Soul,2020,"Animation, Family, Comedy, Fantasy, Drama, Music",101
-A Bug's Life,1998,"Family, Animation, Adventure, Comedy",95
-The Five-Year Engagement,2012,"Comedy, Romance",124
+name,year,genre,runtime,directors
+The Worst Person in the World,2021,"Drama, Romance, Comedy",128,Joachim Trier
+Entergalactic,2022,"Animation, Romance, Music",93,Fletcher Moules
+A Bronx Tale,1993,"Drama, Crime",121,Robert De Niro
+2001: A Space Odyssey,1968,"Science Fiction, Mystery, Adventure",149,Stanley Kubrick
+The Piano Teacher,2001,"Drama, Romance",131,Michael Haneke
+Past Lives,2023,"Drama, Romance",106,Celine Song
+Snatch,2000,"Crime, Comedy",103,Guy Ritchie
+Jacob's Ladder,1990,"Drama, Mystery, Horror",113,Adrian Lyne
+Alice in Wonderland,1951,"Animation, Family, Fantasy, Adventure",75,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske"
+Taxi Driver,1976,"Crime, Drama",114,Martin Scorsese
+Bambi,1942,"Animation, Drama, Family",69,David Hand
+It's Such a Beautiful Day,2012,"Animation, Comedy",62,Don Hertzfeldt
+Love Jones,1997,"Comedy, Drama, Romance",109,Theodore Witcher
+In the Mood for Love,2000,"Drama, Romance",99,Wong Kar-Wai
+Requiem for a Dream,2000,"Crime, Drama",102,Darren Aronofsky
+The Banker,2020,Drama,120,George Nolfi
+Belly,1998,"Crime, Drama",96,Hype Williams
+96,2018,Romance,159,C. Prem Kumar
+Paid in Full,2002,"Action, Crime, Drama",98,Charles Stone III
+New Jack City,1991,"Thriller, Crime, Drama",97,Mario Van Peebles
+Coach Carter,2005,"Drama, History",136,Thomas Carter
+Fresh,1994,"Crime, Drama, Thriller",114,Boaz Yakin
+Lean On Me,1989,Drama,108,John G. Avildsen
+Menace II Society,1993,"Drama, Crime, Thriller",97,"Albert Hughes, Allen Hughes"
+Ol' Dirty Bastard: A Tale of Two Dirtys,2024,Documentary,90,"Jason Pollard, Sam Pollard"
+The Hateful Eight,2015,"Drama, Mystery, Western",188,Quentin Tarantino
+Ghost,1990,"Fantasy, Drama, Thriller, Mystery, Romance",127,Jerry Zucker
+Jason's Lyric,1994,"Crime, Drama, Romance",119,Doug McHenry
+Dead Presidents,1995,"Action, Crime, Drama, Thriller, War",119,"Albert Hughes, Allen Hughes"
+The Players Club,1998,"Comedy, Drama",104,Ice Cube
+Devil in a Blue Dress,1995,"Thriller, Crime, Mystery",102,Carl Franklin
+American History X,1998,Drama,119,Tony Kaye
+American Gangster,2007,"Drama, Crime",157,Ridley Scott
+What Dreams May Come,1998,"Drama, Fantasy, Romance",113,Vincent Ward
+Network,1976,Drama,122,Sidney Lumet
+Fences,2016,Drama,139,Denzel Washington
+Antwone Fisher,2002,"Drama, History, Romance",120,Denzel Washington
+The Big Country,1958,"Drama, Western, Romance",167,William Wyler
+Cinderella,1950,"Family, Fantasy, Animation, Romance",74,"Hamilton Luske, Clyde Geronimi, Wilfred Jackson"
+Pinocchio,1940,"Animation, Family, Fantasy",88,"Hamilton Luske, Ben Sharpsteen, Norman Ferguson, T. Hee, Jack Kinney, Bill Roberts, Wilfred Jackson"
+Soul,2020,"Animation, Family, Comedy, Fantasy, Drama, Music",101,Pete Docter
+A Bug's Life,1998,"Family, Animation, Adventure, Comedy",95,John Lasseter
+The Five-Year Engagement,2012,"Comedy, Romance",124,Nicholas Stoller
